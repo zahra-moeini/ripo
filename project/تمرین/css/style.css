@@ -7,6 +7,9 @@ header nav{
 .font-logo  {
   display:flex;
   justify-content: flex-end;   
+  list-style-type: none;
+  justify-content: space-between;
+  flex-direction: row-reverse;
 }
 .font-logo .logo{
   font-size:20px;
@@ -19,7 +22,7 @@ header nav{
 }
 .button1{
   color: white;
-  margin: -52px auto ;
+  margin: -62px auto ;
   margin-left: 10px;
 }
 /* end header */
@@ -113,21 +116,15 @@ header nav{
   
 }
 .h1{
-   width: 36px;
-   
+   width: 36px; 
 }
 .h1:hover{
  width:75px;
-
- 
 }
-
-
   .transform{
     display: flex;
     justify-content:space-around;
   }
-  
   .ghimat1{
     width: 50px;
     height: 30px;
@@ -145,6 +142,7 @@ header nav{
     border-bottom: 1px solid red;
     
   } 
+  
   /* end tablight */
 
   /*footer  */
@@ -186,6 +184,7 @@ header nav{
  .footer-icon-2  :hover{
    cursor: pointer;
  }
+
   /*  end footer*/
 
  
