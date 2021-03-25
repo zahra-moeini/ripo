@@ -102,6 +102,27 @@ header nav{
   .card-body p{
     margin-top: 70px;
   }
+  .g1{
+    display:none;
+  
+    
+}
+.h1:hover .g1{
+ 
+   display: inline;
+  
+}
+.h1{
+   width: 36px;
+   
+}
+.h1:hover{
+ width:75px;
+
+ 
+}
+
+
   .transform{
     display: flex;
     justify-content:space-around;
