@@ -1,0 +1,36 @@
+@media screen and (max-width: 992px){
+    .text-p{
+      
+        text-align: center;
+    }
+    .footer .dar {
+        font-size: 12px;
+       
+    }
+    .footer-icon {
+        font-size: 10px;
+    }
+    .footer-icon-2{
+        font-size: 20px;
+        width: 150px;
+    }
+    .button{
+        margin-top: -194px;
+        margin-left: 71px;
+    }
+
+}
+/* @media screen and (max-width: 987px){
+     .button{
+         margin-top: -193px;
+   margin-left: 346px;
+     }
+} */
+             
+
+
+@media screen and (max-width: 400px){
+    .container{
+        width: 100px;
+    }
+}
