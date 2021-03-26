@@ -142,7 +142,19 @@ header nav{
     border-bottom: 1px solid red;
     
   } 
-  
+  .div-2{
+   
+    display: flex;
+    flex-direction: row-reverse;
+    margin: -26px ;
+    font-size: 20px;
+    color: rgb(82, 73, 73);
+    
+  }
+  .div-2 p{
+    margin-top: 0;
+  }
+ 
   /* end tablight */
 
   /*footer  */
