@@ -25,6 +25,13 @@ header nav{
   margin: -62px auto ;
   margin-left: 10px;
 }
+.logo a{
+  color: black;
+}
+.logo a :hover{
+  color:black ;
+}
+
 /* end header */
 /* main */
 .main-image img{
